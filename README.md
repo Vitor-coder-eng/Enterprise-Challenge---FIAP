@@ -8,25 +8,25 @@ O Enterprise Challenge - Solubio é uma iniciativa da FIAP em parceria com a Sol
 
 ### Descrição dos elementos da arquitetura e suas funções 
 
-Mensagem do Usuário 
+# Mensagem do Usuário 
 
 Função: Atuar como ponto de entrada, capturando a interação do usuário e enviando-a para o sistema. 
 
-Pré-processamento 
+# Pré-processamento 
 
 Função: Limpar e normalizar o texto da mensagem, preparando-o para as próximas etapas. Inclui remoção de ruídos, normalização de termos e segmentação. 
 
-Classificação de Intenção 
+# Classificação de Intenção 
 
 Função: Identificar a intenção do usuário, utilizando modelos de machine learning (ML) ou processamento de linguagem natural (NLP). 
 
-Utilização de Contexto e Geração de Respostas 
+# Utilização de Contexto e Geração de Respostas 
 
 Função: Manter informações importantes de conversas anteriores, garantindo continuidade nas interações. 
 
 Função: Com base na intenção detectada, cria ou seleciona uma resposta. 
 
-Selecionador de Respostas 
+# Selecionador de Respostas 
 
 Função: Selecionar a melhor resposta dentre as candidatas, com base em critérios como contexto e relevância. 
 
