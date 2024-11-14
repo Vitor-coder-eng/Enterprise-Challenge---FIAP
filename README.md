@@ -3,10 +3,10 @@
 # Enterprise-Challenge - Solubio
 O Enterprise Challenge - Solubio é uma iniciativa da FIAP em parceria com a Solubio, uma empresa do setor de Bioinsumos. Este projeto acadêmico hands-on tem como objetivo desenvolver as habilidades dos alunos, que irão criar uma solução de chatbot hospedada em nuvem.
 
-### Arquitetura de Solução para Chatbot
+# Arquitetura de Solução para Chatbot
 ![Arquitetura de solução para chatbot](https://github.com/Vitor-coder-eng/Enterprise-Challenge---Solubio/blob/main/Arquitetura%20de%20Solu%C3%A7%C3%A3o%20para%20ChatBot.png)
 
-### Descrição dos elementos da arquitetura e suas funções 
+# Descrição dos elementos da arquitetura e suas funções 
 
 ### Mensagem do Usuário 
 
@@ -30,7 +30,7 @@ Função: Com base na intenção detectada, cria ou seleciona uma resposta.
 
 Função: Selecionar a melhor resposta dentre as candidatas, com base em critérios como contexto e relevância. 
 
-### Previsão de custos mensal de cada elemento 
+# Previsão de custos mensal de cada elemento 
 
 Para implementar essa solução de chatbot, projetamos alguns custos mensais, distribuídos entre os principais componentes necessários. Em primeiro lugar, a hospedagem em nuvem, fundamental para garantir escalabilidade e segurança, representa uma parte significativa do custo, estimada entre R$100 e R$500 por mês, dependendo do volume de interações e da demanda por capacidade de processamento. Outro ponto essencial é o serviço de Processamento de Linguagem Natural (NLP), que permitirá ao chatbot entender e responder às mensagens dos usuários com precisão. Esse serviço, utilizando opções como o Dialogflow ou IBM Watson, pode custar entre R$200 e R$500 mensais. A maioria das plataformas de NLP oferece planos gratuitos com limites, úteis para o início, mas que, ao serem excedidos, passam a gerar custos adicionais. 
 
@@ -38,7 +38,7 @@ Além disso, será necessário um banco de dados em nuvem, com um custo mensal d
 
 O custo total estimado para manter a solução mensalmente seria de aproximadamente R$900. 
 
-### Resultados Esperados e Impacto na Solubio 
+# Resultados Esperados e Impacto na Solubio 
 
 Com essa arquitetura, esperamos resultados positivos em várias frentes. Em termos de atendimento, o chatbot estará disponível 24 horas por dia, sete dias por semana, permitindo uma automação significativa e proporcionando respostas rápidas e eficientes para dúvidas comuns. Isso reduz a carga do atendimento humano em questões rotineiras e libera os colaboradores para focar em atividades de maior valor, como atendimentos personalizados e suporte avançado. 
 
